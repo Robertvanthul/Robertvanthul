@@ -23,3 +23,11 @@ I love pushing boundaries, experimenting, and learning how stuff really works (a
 Languages:   Python, PHP, JavaScript, C#, C/C++
 Frameworks:  .NET, Node.js, Joomla, Flutter
 Tools:       Git, Docker, VS Code, Linux, ESP32, Arduino
+```
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RobertVanthul&show_icons=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide_border=true" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertVanthul&layout=compact&theme=dark&hide_border=true" alt="Top languages" /></td>
+  </tr>
+</table>

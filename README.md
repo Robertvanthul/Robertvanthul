@@ -15,7 +15,7 @@ I love pushing boundaries, experimenting, and learning how stuff really works (a
 - 🧩 **3D printing** – designing and prototyping functional parts  
 - 🔐 **Hacking & tinkering** – exploring systems, optimizing, experimenting  
 - 🥊 **Kickboxing & fitness** – power and discipline, in and out of the gym
-- 🍔 **Frikandelbroodjes**
+- 🍔 **Frikandelbroodjes and wayy too much Monster Energy** - my daily fuel
 
 ---
 

@@ -26,6 +26,8 @@ Frameworks:  .NET, Node.js, Joomla, Flutter
 Tools:       Git, Docker, VS Code, Linux, ESP32, Arduino
 ```
 
+---
+
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RobertVanthul&show_icons=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide_border=true&hide_rank=true" alt="Stats" /></td>

@@ -21,9 +21,9 @@ I love pushing boundaries, experimenting, and learning how stuff really works (a
 
 ### 🔧 Tech stack
 ```text
-Languages:   Python, PHP, JavaScript, C#, C/C++
-Frameworks:  .NET, Node.js, Joomla, Flutter
-Tools:       Git, Docker, VS Code, Linux, ESP32, Arduino
+Languages:   Python, PHP, HTML, CSS, JavaScript, C#
+Frameworks:  .NET, Node.js, Joomla, Flutter, Laravel
+Tools:       Git, Docker, VS Code, Linux, ESP8266, Arduino
 ```
 
 ---

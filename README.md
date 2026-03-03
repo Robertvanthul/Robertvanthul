@@ -1,37 +1,94 @@
-# 👋 Hey, I'm Robert
+<div align="center">
 
-<img align="right" style="filter: hue-rotate(90deg)" src="https://images.unsplash.com/photo-1634693654243-a4f03785cba4?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9uc3RlciUyMGVuZXJneSUyMGRyaW5rfGVufDB8fDB8fHww" width="180" alt="My fuel (Monster Energy)" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003822,100:00ff88&height=120&section=header&animation=fadeIn" />
 
-💻 **Software developer | Maker**
+</div>
 
-I'm passionate about building things — from **code** to **circuits** to **3D prints**.  
-I love pushing boundaries, experimenting, and learning how stuff really works (and sometimes breaking it to find out 😎).
+<div align="left">
 
----
-
-### 🧠 What I’m into
-- 🧰 **Software development** – web, backend, embedded, automation  
-- ⚡ **Electronics** – Arduino, sensors, breadboarding
-- 🧩 **3D printing** – designing and prototyping functional parts  
-- 🔐 **Hacking & tinkering** – exploring systems, optimizing, experimenting  
-- 🥊 **Kickboxing & fitness** – power and discipline, in and out of the gym
-- 🍔 **Frikandelbroodjes and wayy too much Monster Energy** - my daily fuel
-
----
-
-### 🔧 Tech stack
 ```text
-Languages:   Python, PHP, HTML, CSS, JavaScript, C#
-Frameworks:  .NET, Node.js, Joomla, Flutter, Laravel
-Tools:       Git, Docker, VS Code, Linux, ESP8266, Arduino
+> whoami
+```
+
+</div>
+
+<img align="right" style="border-radius: 12px; margin: 0 0 16px 24px;" src="https://images.unsplash.com/photo-1634693654243-a4f03785cba4?fm=jpg&q=60&w=400&ixlib=rb-4.1.0" width="160" alt="Fuel" />
+
+# `Robert van 't Hul` 🟢
+
+**Software Developer · Maker · Tinkerer**
+
+I build things. Code, circuits, and printed parts.  
+I push limits, break stuff on purpose, and make it work better.
+
+🌐 **[robertvanthul.com](https://robertvanthul.com)**
+
+---
+
+<div align="left">
+
+```text
+> cat interests.txt
+```
+
+</div>
+
+| | |
+|---|---|
+| 🧰 **Software Dev** | Web · Backend · Embedded · Automation |
+| ⚡ **Electronics** | Arduino · ESP8266 · Sensors · Breadboards |
+| 🧩 **3D Printing** | Functional prototypes · Custom parts |
+| 🔐 **Hacking & Tinkering** | Exploring systems · Optimizing everything |
+| 🥊 **Kickboxing** | Power and discipline — in and out of the gym |
+| 🍔⚡ **Daily Fuel** | Frikandelbroodjes + way too much Monster |
+
+---
+
+<div align="left">
+
+```text
+> cat stack.sh
+```
+
+</div>
+
+```bash
+#!/usr/bin/env robert
+
+LANGUAGES="Python  PHP  JavaScript  HTML/CSS  C#"
+FRAMEWORKS=".NET  Node.js  Laravel  Flutter  Joomla"
+TOOLS="Git  Docker  VS Code  Linux  Arduino  ESP8266"
+
+echo "Stack loaded. Let's build something."
 ```
 
 ---
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RobertVanthul&show_icons=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide_border=true&hide_rank=true&include_all_commits=true" alt="Stats" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=Robertvanthul&theme=dark&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertVanthul&layout=compact&theme=dark&hide_border=true" alt="Top languages" /></td>
-  </tr>
-</table>
+<div align="left">
+
+```text
+> git log --stat
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Robertvanthul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" height="150" alt="Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**`[ Find me at robertvanthul.com ](https://robertvanthul.com)`**
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003822,100:0d1117&height=80&section=footer" />
+
+</div>

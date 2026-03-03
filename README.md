@@ -83,7 +83,7 @@ echo "Stack loaded. Let's build something."
 
 <div align="center">
 
-**`[ Find me at robertvanthul.com ](https://robertvanthul.com)`**
+**`[ Find me at robertvanthul.com ]`**
 
 </div>
 
